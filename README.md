@@ -18,7 +18,7 @@ Ensure you have Python 3.x installed on your system. Then, follow these steps:
 
 3. Create a symbolic link for easy execution:
     ```bash
-    sudo bash -c 'echo "/bin/bash ~/.currentroom.py" > /bin/currentroom'
+    sudo bash -c 'echo "/bin/python ~/.currentroom.py" > /bin/currentroom'
     ```
 
 4. Make it executable:
